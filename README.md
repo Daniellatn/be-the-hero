@@ -1,7 +1,7 @@
 <img src="/frontend/src/assets/logo.svg" align="center"> 
 
 # Aplicação Be The Hero
-A aplicação Be The Hero, é uma aplicação web e mobile, onde as Ong's podem se cadastrar e cadastrar seus casos que necessitam da ajuda financeira. Através da aplicação mobile, os Heróis escolhem e seleciona os casos que desejam ajudar e entram em contato com a ONG através do WhatsApp ou E-mail.
+A aplicação Be The Hero, é uma aplicação web e mobile, onde as Ong's podem se cadastrar e cadastrar seus casos que necessitam da ajuda financeira. Através da aplicação mobile, os Heróis escolhem e selecionam os casos que desejam ajudar e entram em contato com a ONG através do WhatsApp ou E-mail.
 
 
 
